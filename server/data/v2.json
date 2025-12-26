@@ -1,0 +1,713 @@
+{
+  "ParsedResults": [
+    {
+      "Overlay": {
+        "Lines": [
+          {
+            "LineText": "TION INFORMATION",
+            "Words": [
+              {
+                "WordText": "TION",
+                "Left": -7,
+                "Top": 69,
+                "Height": 35,
+                "Width": 32
+              },
+              {
+                "WordText": "INFORMATION",
+                "Left": 21,
+                "Top": 77,
+                "Height": 56,
+                "Width": 110
+              }
+            ],
+            "MaxHeight": 64,
+            "MinTop": 69
+          },
+          {
+            "LineText": "quontity",
+            "Words": [
+              {
+                "WordText": "quontity",
+                "Left": 28,
+                "Top": 164,
+                "Height": 24,
+                "Width": 36
+              }
+            ],
+            "MaxHeight": 24,
+            "MinTop": 164
+          },
+          {
+            "LineText": "Average",
+            "Words": [
+              {
+                "WordText": "Average",
+                "Left": 60,
+                "Top": 149,
+                "Height": 40,
+                "Width": 64
+              }
+            ],
+            "MaxHeight": 40,
+            "MinTop": 149
+          },
+          {
+            "LineText": "Quantity",
+            "Words": [
+              {
+                "WordText": "Quantity",
+                "Left": 67,
+                "Top": 171,
+                "Height": 33,
+                "Width": 55
+              }
+            ],
+            "MaxHeight": 33,
+            "MinTop": 171
+          },
+          {
+            "LineText": "per 100g per SERVE",
+            "Words": [
+              {
+                "WordText": "per",
+                "Left": 22,
+                "Top": 179,
+                "Height": 27,
+                "Width": 19
+              },
+              {
+                "WordText": "100g",
+                "Left": 40,
+                "Top": 183,
+                "Height": 28,
+                "Width": 28
+              },
+              {
+                "WordText": "per",
+                "Left": 66,
+                "Top": 187,
+                "Height": 27,
+                "Width": 25
+              },
+              {
+                "WordText": "SERVE",
+                "Left": 90,
+                "Top": 192,
+                "Height": 30,
+                "Width": 36
+              }
+            ],
+            "MaxHeight": 42,
+            "MinTop": 179
+          },
+          {
+            "LineText": "2175kJ",
+            "Words": [
+              {
+                "WordText": "2175kJ",
+                "Left": 26,
+                "Top": 204,
+                "Height": 30,
+                "Width": 40
+              }
+            ],
+            "MaxHeight": 30,
+            "MinTop": 204
+          },
+          {
+            "LineText": "435kJ",
+            "Words": [
+              {
+                "WordText": "435kJ",
+                "Left": 78,
+                "Top": 224,
+                "Height": 24,
+                "Width": 38
+              }
+            ],
+            "MaxHeight": 24,
+            "MinTop": 224
+          },
+          {
+            "LineText": "15g",
+            "Words": [
+              {
+                "WordText": "15g",
+                "Left": 86,
+                "Top": 264,
+                "Height": 26,
+                "Width": 28
+              }
+            ],
+            "MaxHeight": 26,
+            "MinTop": 264
+          },
+          {
+            "LineText": "30.3g",
+            "Words": [
+              {
+                "WordText": "30.3g",
+                "Left": 32,
+                "Top": 282,
+                "Height": 28,
+                "Width": 32
+              }
+            ],
+            "MaxHeight": 28,
+            "MinTop": 282
+          },
+          {
+            "LineText": "6.1 g",
+            "Words": [
+              {
+                "WordText": "6.1",
+                "Left": 86,
+                "Top": 302,
+                "Height": 26,
+                "Width": 16
+              },
+              {
+                "WordText": "g",
+                "Left": 105,
+                "Top": 302,
+                "Height": 26,
+                "Width": 9
+              }
+            ],
+            "MaxHeight": 26,
+            "MinTop": 302
+          },
+          {
+            "LineText": "2.0g",
+            "Words": [
+              {
+                "WordText": "2.0g",
+                "Left": 86,
+                "Top": 324,
+                "Height": 28,
+                "Width": 30
+              }
+            ],
+            "MaxHeight": 28,
+            "MinTop": 324
+          },
+          {
+            "LineText": "10.9g",
+            "Words": [
+              {
+                "WordText": "10.9g",
+                "Left": 78,
+                "Top": 358,
+                "Height": 28,
+                "Width": 36
+              }
+            ],
+            "MaxHeight": 28,
+            "MinTop": 358
+          },
+          {
+            "LineText": "10.9g",
+            "Words": [
+              {
+                "WordText": "10.9g",
+                "Left": 78,
+                "Top": 382,
+                "Height": 30,
+                "Width": 38
+              }
+            ],
+            "MaxHeight": 30,
+            "MinTop": 382
+          },
+          {
+            "LineText": "33mg",
+            "Words": [
+              {
+                "WordText": "33mg",
+                "Left": 36,
+                "Top": 402,
+                "Height": 26,
+                "Width": 26
+              }
+            ],
+            "MaxHeight": 26,
+            "MinTop": 402
+          },
+          {
+            "LineText": "7.0mg",
+            "Words": [
+              {
+                "WordText": "7.0mg",
+                "Left": 76,
+                "Top": 416,
+                "Height": 30,
+                "Width": 38
+              }
+            ],
+            "MaxHeight": 30,
+            "MinTop": 416
+          },
+          {
+            "LineText": "INGREDIENTS: SUGAR,",
+            "Words": [
+              {
+                "WordText": "INGREDIENTS",
+                "Left": 191,
+                "Top": 100,
+                "Height": 33,
+                "Width": 146
+              },
+              {
+                "WordText": ":",
+                "Left": 191,
+                "Top": 100,
+                "Height": 32,
+                "Width": 146
+              },
+              {
+                "WordText": "SUGAR",
+                "Left": 340,
+                "Top": 103,
+                "Height": 31,
+                "Width": 68
+              },
+              {
+                "WordText": ",",
+                "Left": 340,
+                "Top": 103,
+                "Height": 31,
+                "Width": 68
+              }
+            ],
+            "MaxHeight": 34,
+            "MinTop": 100
+          },
+          {
+            "LineText": "VEGETABLE OIL, HAZELNUTS",
+            "Words": [
+              {
+                "WordText": "VEGETABLE",
+                "Left": 190,
+                "Top": 126,
+                "Height": 38,
+                "Width": 95
+              },
+              {
+                "WordText": "OIL",
+                "Left": 290,
+                "Top": 126,
+                "Height": 38,
+                "Width": 38
+              },
+              {
+                "WordText": ",",
+                "Left": 290,
+                "Top": 126,
+                "Height": 38,
+                "Width": 38
+              },
+              {
+                "WordText": "HAZELNUTS",
+                "Left": 332,
+                "Top": 126,
+                "Height": 38,
+                "Width": 121
+              }
+            ],
+            "MaxHeight": 38,
+            "MinTop": 126
+          },
+          {
+            "LineText": "(13%), SKIM MILK POWDER",
+            "Words": [
+              {
+                "WordText": "(",
+                "Left": 190,
+                "Top": 156,
+                "Height": 30,
+                "Width": 60
+              },
+              {
+                "WordText": "13",
+                "Left": 190,
+                "Top": 156,
+                "Height": 30,
+                "Width": 60
+              },
+              {
+                "WordText": "%),",
+                "Left": 190,
+                "Top": 156,
+                "Height": 30,
+                "Width": 60
+              },
+              {
+                "WordText": "SKIM",
+                "Left": 254,
+                "Top": 156,
+                "Height": 30,
+                "Width": 49
+              },
+              {
+                "WordText": "MILK",
+                "Left": 306,
+                "Top": 156,
+                "Height": 30,
+                "Width": 52
+              },
+              {
+                "WordText": "POWDER",
+                "Left": 362,
+                "Top": 156,
+                "Height": 30,
+                "Width": 78
+              }
+            ],
+            "MaxHeight": 30,
+            "MinTop": 156
+          },
+          {
+            "LineText": "(8.7%), FAT-REDUCED COCOA",
+            "Words": [
+              {
+                "WordText": "(",
+                "Left": 190,
+                "Top": 182,
+                "Height": 28,
+                "Width": 66
+              },
+              {
+                "WordText": "8.7",
+                "Left": 190,
+                "Top": 182,
+                "Height": 28,
+                "Width": 66
+              },
+              {
+                "WordText": "%),",
+                "Left": 190,
+                "Top": 182,
+                "Height": 28,
+                "Width": 66
+              },
+              {
+                "WordText": "FAT",
+                "Left": 260,
+                "Top": 182,
+                "Height": 28,
+                "Width": 119
+              },
+              {
+                "WordText": "-",
+                "Left": 260,
+                "Top": 182,
+                "Height": 28,
+                "Width": 119
+              },
+              {
+                "WordText": "REDUCED",
+                "Left": 260,
+                "Top": 182,
+                "Height": 28,
+                "Width": 119
+              },
+              {
+                "WordText": "COCOA",
+                "Left": 382,
+                "Top": 182,
+                "Height": 28,
+                "Width": 62
+              }
+            ],
+            "MaxHeight": 28,
+            "MinTop": 182
+          },
+          {
+            "LineText": "POWDER (7.4%), EMULSIFIER",
+            "Words": [
+              {
+                "WordText": "POWDER",
+                "Left": 192,
+                "Top": 206,
+                "Height": 36,
+                "Width": 72
+              },
+              {
+                "WordText": "(",
+                "Left": 269,
+                "Top": 206,
+                "Height": 36,
+                "Width": 68
+              },
+              {
+                "WordText": "7.4",
+                "Left": 269,
+                "Top": 206,
+                "Height": 36,
+                "Width": 68
+              },
+              {
+                "WordText": "%),",
+                "Left": 269,
+                "Top": 206,
+                "Height": 36,
+                "Width": 68
+              },
+              {
+                "WordText": "EMULSIFIER",
+                "Left": 340,
+                "Top": 206,
+                "Height": 36,
+                "Width": 105
+              }
+            ],
+            "MaxHeight": 36,
+            "MinTop": 206
+          },
+          {
+            "LineText": "(SOY LECITHIN, FLAVOURING",
+            "Words": [
+              {
+                "WordText": "(",
+                "Left": 190,
+                "Top": 234,
+                "Height": 38,
+                "Width": 47
+              },
+              {
+                "WordText": "SOY",
+                "Left": 190,
+                "Top": 234,
+                "Height": 38,
+                "Width": 48
+              },
+              {
+                "WordText": "LECITHIN",
+                "Left": 242,
+                "Top": 234,
+                "Height": 38,
+                "Width": 100
+              },
+              {
+                "WordText": ",",
+                "Left": 242,
+                "Top": 234,
+                "Height": 38,
+                "Width": 100
+              },
+              {
+                "WordText": "FLAVOURING",
+                "Left": 347,
+                "Top": 234,
+                "Height": 38,
+                "Width": 107
+              }
+            ],
+            "MaxHeight": 38,
+            "MinTop": 234
+          },
+          {
+            "LineText": "(VANILLIN).",
+            "Words": [
+              {
+                "WordText": "(",
+                "Left": 190,
+                "Top": 261,
+                "Height": 36,
+                "Width": 107
+              },
+              {
+                "WordText": "VANILLIN",
+                "Left": 190,
+                "Top": 261,
+                "Height": 36,
+                "Width": 107
+              },
+              {
+                "WordText": ").",
+                "Left": 190,
+                "Top": 261,
+                "Height": 36,
+                "Width": 107
+              }
+            ],
+            "MaxHeight": 36,
+            "MinTop": 261
+          },
+          {
+            "LineText": "CONTAINS HAZELNUTS,",
+            "Words": [
+              {
+                "WordText": "CONTAINS",
+                "Left": 192,
+                "Top": 288,
+                "Height": 32,
+                "Width": 104
+              },
+              {
+                "WordText": "HAZELNUTS",
+                "Left": 300,
+                "Top": 288,
+                "Height": 32,
+                "Width": 130
+              },
+              {
+                "WordText": ",",
+                "Left": 300,
+                "Top": 288,
+                "Height": 32,
+                "Width": 130
+              }
+            ],
+            "MaxHeight": 32,
+            "MinTop": 288
+          },
+          {
+            "LineText": "MILK, SOY.",
+            "Words": [
+              {
+                "WordText": "MILK",
+                "Left": 191,
+                "Top": 315,
+                "Height": 33,
+                "Width": 58
+              },
+              {
+                "WordText": ",",
+                "Left": 191,
+                "Top": 315,
+                "Height": 33,
+                "Width": 58
+              },
+              {
+                "WordText": "SOY",
+                "Left": 251,
+                "Top": 318,
+                "Height": 33,
+                "Width": 58
+              },
+              {
+                "WordText": ".",
+                "Left": 251,
+                "Top": 318,
+                "Height": 33,
+                "Width": 58
+              }
+            ],
+            "MaxHeight": 36,
+            "MinTop": 315
+          },
+          {
+            "LineText": "TOTAL MILK SOLIDS: 8.7%",
+            "Words": [
+              {
+                "WordText": "TOTAL",
+                "Left": 190,
+                "Top": 340,
+                "Height": 32,
+                "Width": 52
+              },
+              {
+                "WordText": "MILK",
+                "Left": 246,
+                "Top": 340,
+                "Height": 32,
+                "Width": 44
+              },
+              {
+                "WordText": "SOLIDS",
+                "Left": 294,
+                "Top": 340,
+                "Height": 32,
+                "Width": 68
+              },
+              {
+                "WordText": ":",
+                "Left": 294,
+                "Top": 340,
+                "Height": 32,
+                "Width": 68
+              },
+              {
+                "WordText": "8.7",
+                "Left": 366,
+                "Top": 340,
+                "Height": 32,
+                "Width": 48
+              },
+              {
+                "WordText": "%",
+                "Left": 366,
+                "Top": 340,
+                "Height": 32,
+                "Width": 48
+              }
+            ],
+            "MaxHeight": 32,
+            "MinTop": 340
+          },
+          {
+            "LineText": "TOTAL COCOA SOLIDS: 7.4%",
+            "Words": [
+              {
+                "WordText": "TOTAL",
+                "Left": 190,
+                "Top": 364,
+                "Height": 34,
+                "Width": 51
+              },
+              {
+                "WordText": "COCOA",
+                "Left": 245,
+                "Top": 364,
+                "Height": 34,
+                "Width": 55
+              },
+              {
+                "WordText": "SOLIDS",
+                "Left": 305,
+                "Top": 364,
+                "Height": 34,
+                "Width": 72
+              },
+              {
+                "WordText": ":",
+                "Left": 305,
+                "Top": 364,
+                "Height": 34,
+                "Width": 72
+              },
+              {
+                "WordText": "7.4",
+                "Left": 381,
+                "Top": 364,
+                "Height": 34,
+                "Width": 49
+              },
+              {
+                "WordText": "%",
+                "Left": 381,
+                "Top": 364,
+                "Height": 34,
+                "Width": 49
+              }
+            ],
+            "MaxHeight": 34,
+            "MinTop": 364
+          }
+        ],
+        "HasOverlay": true
+      },
+      "FileParseExitCode": 1,
+      "TextOrientation": "0",
+      "ParsedText": "TION INFORMATION\nquontity\nAverage\nQuantity\nper 100g per SERVE\n2175kJ\n435kJ\n15g\n30.3g\n6.1 g\n2.0g\n10.9g\n10.9g\n33mg\n7.0mg\nINGREDIENTS: SUGAR,\nVEGETABLE OIL, HAZELNUTS\n(13%), SKIM MILK POWDER\n(8.7%), FAT-REDUCED COCOA\nPOWDER (7.4%), EMULSIFIER\n(SOY LECITHIN, FLAVOURING\n(VANILLIN).\nCONTAINS HAZELNUTS,\nMILK, SOY.\nTOTAL MILK SOLIDS: 8.7%\nTOTAL COCOA SOLIDS: 7.4%",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": 1.015,
+  "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}

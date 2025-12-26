@@ -1,0 +1,364 @@
+{
+  "ParsedResults": [
+    {
+      "Overlay": {
+        "Lines": [
+          {
+            "LineText": "ION",
+            "Words": [
+              {
+                "WordText": "ION",
+                "Left": 93,
+                "Top": 101,
+                "Height": 23,
+                "Width": 29
+              }
+            ],
+            "MaxHeight": 23,
+            "MinTop": 101
+          },
+          {
+            "LineText": "Average",
+            "Words": [
+              {
+                "WordText": "Average",
+                "Left": 75,
+                "Top": 154,
+                "Height": 29,
+                "Width": 41
+              }
+            ],
+            "MaxHeight": 29,
+            "MinTop": 154
+          },
+          {
+            "LineText": "435k]",
+            "Words": [
+              {
+                "WordText": "435k]",
+                "Left": 80,
+                "Top": 224,
+                "Height": 22,
+                "Width": 32
+              }
+            ],
+            "MaxHeight": 22,
+            "MinTop": 224
+          },
+          {
+            "LineText": "7.0mg",
+            "Words": [
+              {
+                "WordText": "7.0mg",
+                "Left": 81,
+                "Top": 416,
+                "Height": 28,
+                "Width": 31
+              }
+            ],
+            "MaxHeight": 28,
+            "MinTop": 416
+          },
+          {
+            "LineText": "INGREDIENTS: SUGAR,",
+            "Words": [
+              {
+                "WordText": "INGREDIENTS:",
+                "Left": 194,
+                "Top": 101,
+                "Height": 27,
+                "Width": 142
+              },
+              {
+                "WordText": "SUGAR,",
+                "Left": 344,
+                "Top": 105,
+                "Height": 25,
+                "Width": 63
+              }
+            ],
+            "MaxHeight": 27,
+            "MinTop": 101
+          },
+          {
+            "LineText": "VEGETABLE OIL, HAZELNUTS",
+            "Words": [
+              {
+                "WordText": "VEGETABLE",
+                "Left": 193,
+                "Top": 127,
+                "Height": 26,
+                "Width": 92
+              },
+              {
+                "WordText": "OIL,",
+                "Left": 292,
+                "Top": 132,
+                "Height": 26,
+                "Width": 33
+              },
+              {
+                "WordText": "HAZELNUTS",
+                "Left": 334,
+                "Top": 128,
+                "Height": 25,
+                "Width": 116
+              }
+            ],
+            "MaxHeight": 26,
+            "MinTop": 127
+          },
+          {
+            "LineText": "(13%) SKIM MILK POWDER",
+            "Words": [
+              {
+                "WordText": "(13%)",
+                "Left": 194,
+                "Top": 153,
+                "Height": 27,
+                "Width": 51
+              },
+              {
+                "WordText": "SKIM",
+                "Left": 258,
+                "Top": 158,
+                "Height": 22,
+                "Width": 43
+              },
+              {
+                "WordText": "MILK",
+                "Left": 308,
+                "Top": 158,
+                "Height": 22,
+                "Width": 51
+              },
+              {
+                "WordText": "POWDER",
+                "Left": 367,
+                "Top": 155,
+                "Height": 24,
+                "Width": 70
+              }
+            ],
+            "MaxHeight": 27,
+            "MinTop": 153
+          },
+          {
+            "LineText": "(8.7%}, FAT-REDUCED",
+            "Words": [
+              {
+                "WordText": "(8.7%},",
+                "Left": 194,
+                "Top": 175,
+                "Height": 34,
+                "Width": 62
+              },
+              {
+                "WordText": "FAT-REDUCED",
+                "Left": 264,
+                "Top": 184,
+                "Height": 22,
+                "Width": 113
+              }
+            ],
+            "MaxHeight": 34,
+            "MinTop": 175
+          },
+          {
+            "LineText": "POWDER (7.4%), EMULSIFIER",
+            "Words": [
+              {
+                "WordText": "POWDER",
+                "Left": 194,
+                "Top": 207,
+                "Height": 26,
+                "Width": 72
+              },
+              {
+                "WordText": "(7.4%),",
+                "Left": 273,
+                "Top": 212,
+                "Height": 26,
+                "Width": 63
+              },
+              {
+                "WordText": "EMULSIFIER",
+                "Left": 345,
+                "Top": 208,
+                "Height": 25,
+                "Width": 96
+              }
+            ],
+            "MaxHeight": 26,
+            "MinTop": 207
+          },
+          {
+            "LineText": "(Soy LECITHIN), FLAVOURING",
+            "Words": [
+              {
+                "WordText": "(Soy",
+                "Left": 194,
+                "Top": 235,
+                "Height": 24,
+                "Width": 48
+              },
+              {
+                "WordText": "LECITHIN),",
+                "Left": 249,
+                "Top": 239,
+                "Height": 27,
+                "Width": 88
+              },
+              {
+                "WordText": "FLAVOURING",
+                "Left": 345,
+                "Top": 235,
+                "Height": 26,
+                "Width": 105
+              }
+            ],
+            "MaxHeight": 27,
+            "MinTop": 235
+          },
+          {
+            "LineText": "(VANILLIN).",
+            "Words": [
+              {
+                "WordText": "(VANILLIN).",
+                "Left": 194,
+                "Top": 262,
+                "Height": 29,
+                "Width": 97
+              }
+            ],
+            "MaxHeight": 29,
+            "MinTop": 262
+          },
+          {
+            "LineText": "CONTAINS HAZELNUTS,",
+            "Words": [
+              {
+                "WordText": "CONTAINS",
+                "Left": 194,
+                "Top": 290,
+                "Height": 26,
+                "Width": 100
+              },
+              {
+                "WordText": "HAZELNUTS,",
+                "Left": 303,
+                "Top": 292,
+                "Height": 24,
+                "Width": 122
+              }
+            ],
+            "MaxHeight": 26,
+            "MinTop": 290
+          },
+          {
+            "LineText": "MILK, soy.",
+            "Words": [
+              {
+                "WordText": "MILK,",
+                "Left": 194,
+                "Top": 316,
+                "Height": 28,
+                "Width": 55
+              },
+              {
+                "WordText": "soy.",
+                "Left": 257,
+                "Top": 321,
+                "Height": 22,
+                "Width": 45
+              }
+            ],
+            "MaxHeight": 28,
+            "MinTop": 316
+          },
+          {
+            "LineText": "TOTAL MILK SOLIDS: 8.7%",
+            "Words": [
+              {
+                "WordText": "TOTAL",
+                "Left": 193,
+                "Top": 341,
+                "Height": 25,
+                "Width": 49
+              },
+              {
+                "WordText": "MILK",
+                "Left": 248,
+                "Top": 346,
+                "Height": 22,
+                "Width": 42
+              },
+              {
+                "WordText": "SOLIDS:",
+                "Left": 296,
+                "Top": 347,
+                "Height": 21,
+                "Width": 66
+              },
+              {
+                "WordText": "8.7%",
+                "Left": 369,
+                "Top": 345,
+                "Height": 22,
+                "Width": 40
+              }
+            ],
+            "MaxHeight": 25,
+            "MinTop": 341
+          },
+          {
+            "LineText": "TOTAL COCOA SOLIDS: 7.4%",
+            "Words": [
+              {
+                "WordText": "TOTAL",
+                "Left": 193,
+                "Top": 366,
+                "Height": 25,
+                "Width": 49
+              },
+              {
+                "WordText": "COCOA",
+                "Left": 249,
+                "Top": 371,
+                "Height": 22,
+                "Width": 56
+              },
+              {
+                "WordText": "SOLIDS:",
+                "Left": 312,
+                "Top": 372,
+                "Height": 21,
+                "Width": 65
+              },
+              {
+                "WordText": "7.4%",
+                "Left": 384,
+                "Top": 369,
+                "Height": 23,
+                "Width": 40
+              }
+            ],
+            "MaxHeight": 25,
+            "MinTop": 366
+          }
+        ],
+        "HasOverlay": true,
+        "Message": "Total lines: 15"
+      },
+      "FileParseExitCode": 1,
+      "TextOrientation": "0",
+      "ParsedText": "ION\r\nAverage\r\n435k]\r\n7.0mg\r\nINGREDIENTS: SUGAR,\r\nVEGETABLE OIL, HAZELNUTS\r\n(13%) SKIM MILK POWDER\r\n(8.7%}, FAT-REDUCED\r\nPOWDER (7.4%), EMULSIFIER\r\n(Soy LECITHIN), FLAVOURING\r\n(VANILLIN).\r\nCONTAINS HAZELNUTS,\r\nMILK, soy.\r\nTOTAL MILK SOLIDS: 8.7%\r\nTOTAL COCOA SOLIDS: 7.4%\r\n",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": 0.359,
+  "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}
