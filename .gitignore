@@ -36,3 +36,4 @@ Thumbs.db
 
 # Dependencies
 node_modules/
+.env
