@@ -1,7 +1,6 @@
 from utils.helpers import parse_json_file 
 from dotenv import load_dotenv
-from services.gemini_service import generate_response
-
+from services.gemini_service import analyze_ingredients_response
 
 def main():
     load_dotenv()
@@ -10,7 +9,7 @@ def main():
     data = parse_json_file('data/v1.json')
     parsed_data = data["ParsedResults"][0]["ParsedText"]
     print(parsed_data)
-    # generate_response()
+    # analyze_ingredients_response(parsed_data)
 
 
 if __name__ == "__main__":
