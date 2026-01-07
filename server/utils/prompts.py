@@ -1,3 +1,7 @@
+BASE_PROMPT = """
+Briefly summarize the following food or supplement information to identify anything that may be harmful to a person of any age.
+"""
+
 ANALYZE_SUPPLEMENTS_PROMPT = """
 
 """
